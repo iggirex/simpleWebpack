@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iggirex/simpleWebpack/issues"
   },
-  "homepage": "https://github.com/iggirex/simpleWebpack#readme"
+  "homepage": "https://github.com/iggirex/simpleWebpack#readme",
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  }
 }
