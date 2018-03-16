@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/iggirex/simpleWebpack#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^3.0.6",
     "webpack": "^3.7.1"
   }
 }
